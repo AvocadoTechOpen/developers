@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen=self.webpackChunkopen||[]).push([[4274],{2465:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(7294),a=t(5257);function l(){return u.createElement(a.Z,null,u.createElement("h1",null," showcase page"),u.createElement("p",null,"This is a showcase page"))}}}]);
